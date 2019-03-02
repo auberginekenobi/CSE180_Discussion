@@ -1,0 +1,6 @@
+*.bam
+*.bam.bai
+*.coverage.bed
+*.merge.bed
+*.merge.saf
+*.gct
